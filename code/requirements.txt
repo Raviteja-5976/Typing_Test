@@ -1,0 +1,6 @@
+# for Windows 
+windows-cursor
+# For Mac The cursor package is installed by default
+random
+time
+
